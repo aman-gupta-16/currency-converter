@@ -2,11 +2,6 @@
 
 This is a currency converter web application created using HTML, CSS, and JavaScript. It enables users to convert between different currencies based on real-time exchange rates. 
 
-## Preview
-
-![Currency Converter Preview](screenshot-1.png)
-![Currency Converter Preview](screenshot-2.png)
-
 ## Features
 
 - Converts between various currencies using real-time exchange rates.
